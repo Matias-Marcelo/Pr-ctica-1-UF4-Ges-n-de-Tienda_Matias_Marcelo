@@ -1,0 +1,13 @@
+Product:Fresa;Wholesaler Price:5.00;Stock:20;
+Product:Manzana;Wholesaler Price:10.00;Stock:10;
+Product:Leche;Wholesaler Price:5.00;Stock:30;
+Product:Pera;Wholesaler Price:80.00;Stock:45;
+Product:Patata;Wholesaler Price:9.00;Stock:12;
+Product:Naranja;Wholesaler Price:8.00;Stock:25;
+Product:Melocoton;Wholesaler Price:3.00;Stock:41;
+Product:Mandarina;Wholesaler Price:13.00;Stock:4;
+Product:Kiwi;Wholesaler Price:55.00;Stock:20;
+Product:Platano;Wholesaler Price:30.00;Stock:8;
+Product:Uva;Wholesaler Price:2.00;Stock:9;
+Product:Melon;Wholesaler Price:30.00;Stock:8;
+Product:Rabano;Wholesaler Price:2.00;Stock:9;
